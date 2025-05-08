@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HotChocolate.AspNetCore" Version="10.4.0" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="11.0.0" />
     <PackageReference Include="HotChocolate.Subscriptions.InMemory" Version="10.4.0" />
     <PackageReference Include="HotChocolate.Subscriptions.Redis" Version="10.4.0" />
   </ItemGroup>
